@@ -653,9 +653,8 @@ a {
     color: #575757!important;
 }
 
-p,
-a {
-    color: black;
+p {
+    color: #000000;
 }
 
 .container {
@@ -718,6 +717,7 @@ h2 {
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+    background-color: white;
 }
 
 .med-width-whitespace {
@@ -728,6 +728,7 @@ h2 {
 
 h1 {
     color: black!important;
+    background-color: white;
 }
 
 h4 {
